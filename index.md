@@ -5,24 +5,86 @@ title: Markus Frauenfelders CV
 # Markus Frauenfelder
 Software Architect, Requirements Engineer, Senior Software Engineer.
 
+![Markus Frauenfelder](<iframe src="https://drive.google.com/file/d/1Crhk_iSim5JDH5fOI9cI1MKKJEUFljSq/preview" width="240" height="280" allow="autoplay"></iframe>)
+
+
 <div id="webaddress">
 <a href="frmarkus@gmail.com">frmarkus@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">This CV.</a>
+| <a href="https://github.com/frmarkus/markdown-cv/blob/master/index.md">This CV.</a>
 </div>
 
+## Currently, __Netcetera AG__
 
-## Currently
+`April 2021 - today`
+__Requirements Engineer, Senior Software Engineer, Architect__
 
-Standing on the shoulders of giants
+* Technical requirements engineering for a credit card issuer in the context of its mobile wallet.
+* Architecture, coordination and implementation support of security critical features for a credit card issuer in the context of its mobile wallet.
+* __Tools__ PlantUml, Jira, Confluence, Java, Spring Boot, k8s, Rancher.
+
+`September 2015 - April 2021`
+__Senior Software Engineer, Architect__
+
+* *Backend*
+  * Implementations on different solutions for a credit card issuer in the context of its mobile wallet.
+  * Implementation of a backend integration solution to connect a mobile wallet backend with a credit card issuer backend.
+  * __Tools__ Java, Spring Boot, Jira, Confluence.
+* *Android*
+  * Implementation of a mobile wallet on Android.
+  * Architecture, coordination and implementation of big changes on an existing Android banking implementation.
+  * Architecture, coordination and implementation of a very secure Android library for contactless payment through NFC.
+  * Evaluation of application security toolchains for Android and iOs.
+  * __Tools__ Java, Android, Security Toolchains (Digital.ai / Arxan, Inside Secure / Metaforic)
+
+* Colaboration on the development of a big JEE application for the calculation of the national railroad schedule on client and server.
+
+`July 2017 - today`
+__Teamleader__
+
+* Leader of a team of up to seven software engineers in a matrix organization.
+* Execution of technical interviews with junior and senior software engineers.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Requirements Engineering, Architecture and Implementation of complex backend systems.
 
+## Past Occupations
 
-### Research interests
+`January 2015 – August 2015`
+__Senior Software Engineer and Architect at Haag-Streit Diagnostics, Koeniz__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Collaboration on the implementation of a new JavaFX fat clients for biometric eye examination.
+* Development and implementation of an abstraction framework for a strict separation between front end and backend of the fat client.
+* Development and implementation of an IPC framework to connect java, python, C++ and LabView.
+* Collaboration on the conceptual redesign of the UI suite of Haag-Streit.
+* Introduction of: git, gradle, jpa as replacements of svn, ant, jdbc.
+* Introduction of the dependency injection frameworks 'dagger'.
+* __Tools__ java, javaFX, git, gradle, jenkins
+
+`April 2006 - December 2014`
+__Senior Software Engineer, Architect, Project Manager at Ergon Informatik, Zuerich__
+
+* Backend Software Engineering
+* Mobile Solutions Software Engineering
+* Embedded Systems Software Engineering
+* Project Management
+
+`September 2000 - September 2001`
+__Programmer, Analyst at DaimlerChrysler Schweiz AG, Schlieren__
+
+* Consulting and support of tech related business issues.
+* Support data processing center on issues with productive systems.
+* Lead of complete development cycles of small to medium projects.
+* __Tools__ Mainframe (OS390), Cobol74, Adabas
+
+`April 1998 - August 2000` 
+__Programmer, Analyst at Winterthur Versicherungen, Winterthur__
+
+* Software Engineering.
+* Analysis of requirements.
+* Database design.
+* Intranet section responsible incl. employee education.
+* __Tools__ Mainframe (MVS), DB2, IMS, PL/1, SQL, JCL.
 
 
 ## Education
