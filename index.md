@@ -10,7 +10,7 @@ Software Architect, Requirements Engineer, Senior Software Engineer.
 
 <div id="webaddress">
 <a href="frmarkus@gmail.com">frmarkus@gmail.com</a>
-| <a href="https://github.com/frmarkus/markdown-cv/blob/master/index.md">This CV.</a>
+| <a href="https://github.com/frmarkus/markdown-cv/blob/gh-pages/index.md">This CV.</a>
 </div>
 
 ## Markus Frauenfelder
