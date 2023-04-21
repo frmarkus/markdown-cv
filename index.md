@@ -7,10 +7,10 @@ Software Architect, Requirements Engineer, Senior Software Engineer.
 
 <img src="media/MarkusFrauenfelder2017.jpg" alt= "Markus Frauenfelder" width="300">
 
-
 <div id="webaddress">
 <a href="frmarkus@gmail.com">frmarkus@gmail.com</a>
-| <a href="https://github.com/frmarkus/markdown-cv/blob/gh-pages/index.md">This CV.</a>
+| <a href="https://github.com/frmarkus/markdown-cv/blob/gh-pages/index.md">This CVs source.</a>
+| <a href="https://frmarkus.github.io/markdown-cv/">This CVs beauty.</a>
 </div>
 
 ## Markus Frauenfelder
@@ -21,7 +21,7 @@ Software Architect, Requirements Engineer, Senior Software Engineer.
 
 `Address` Route des Fruitiers 23
 
-`.` 1745 Lentigny
+1745 Lentigny
 
 `Mobile` +41 78 676 64 04
 
@@ -136,9 +136,9 @@ __Programmer, Analyst at Winterthur Versicherungen, Winterthur__
 
 `2008` Brevet 1 of the 'Schweizerischen Lebensrettungsgesellschaft'.
 
-`11.2007 -- 02.2008` Projectmanager SGO.
+`11.2007 - 02.2008` Projectmanager SGO.
 
-`04.2006 -- 12.2014` Multiple intern courses: git, Google Web Toolkit, Android, Test Driven Development.
+`04.2006 - 12.2014` Multiple intern courses: git, Google Web Toolkit, Android, Test Driven Development.
 
 `2001` Diverse SAP Courses
 
@@ -148,7 +148,7 @@ __Programmer, Analyst at Winterthur Versicherungen, Winterthur__
 
 `1999` 5 Weeks intern education at 'Winterthur Versicherung': 'Online programmer with PL1 and IMS-DC.
 
-`02.1997 -- 03.1997` 6 Weeks english language education in canada out of which 4 weeks intense enlish courses.
+`02.1997 - 03.1997` 6 Weeks english language education in canada out of which 4 weeks intense enlish courses.
 
 ## Education
 
@@ -173,8 +173,6 @@ __Studies of Computer Sciences at ETH Zurich__
 
 `French` Fluent in Word
 
-* Spoken
-
 ## Private Interest
 
 `Current`
@@ -182,9 +180,47 @@ __Studies of Computer Sciences at ETH Zurich__
 * Gravity Mountain Biking
 * Skiing (Alpine, Telemark, Backcountry)
 * Family
+  * 2006: married
+  * 2008: Yann
+  * 2010: Nico
 
 `Past`
 * 2008 - 2020 White Water Kayak Instructor. (ASVZ)
+* 1999 - 2002 Work in the commitee of the Volleyballclub Embrach: responsible for the organization of the championship.
+* 1997 - 2018 Miscellaneous Work as Volleyball Coach on different Teams.
+
+## References
+
+### Job References
+`2018` <a href="https://drive.google.com/file/d/1e-t3XkUMK_vOJaX-e_OR-c59rbpdKSgN/view?usp=share_link">Intermediate Job Reference Netcetera</a>
+
+`2015` <a href="https://drive.google.com/file/d/1lm-dC0bw95LGWNlMREVpIEsJCBUcLZvf/view?usp=share_link">Job Reference Haag Streit AG</a>
+
+`2014` <a href="https://drive.google.com/file/d/1wyCZqrDSINWIEdr99JcmpXWj-yFUHn5b/view?usp=share_link">Job Reference Ergon Informatik (page 1)</a>
+
+<a href="https://drive.google.com/file/d/1BisSAXENqnkN1ul0lo6tzxjF9R_Iu8Oc/view?usp=share_link">Job Reference Ergon Informatik (page 2)</a>
+
+`2010` <a href="https://drive.google.com/file/d/1JKkkXgbc1yE98ddFX59KZf-ADK-OzpMG/view?usp=share_link">Intermediate Job Reference Ergon Informatik</a>
+
+`2005` <a href="https://drive.google.com/file/d/1FELsh35FWddMs9PL-i0AS0EJM7mSH38U/view?usp=share_link">Job Reference Freescale Semiconductor (Internship)</a>
+
+`2001` <a href="https://drive.google.com/file/d/1bu67_UPN8qQAdGOTxMkkz4_1c3heL9Ri/view?usp=share_link">Job Reference Daimler Chrysler (Schweiz AG)</a>
+
+`2000` <a href="https://drive.google.com/file/d/1q0eqQnvm-SeeCLyqD3I_hFzmvwtVumHj/view?usp=share_link">Job Reference Winterthur Versicherung (page 1)</a>
+
+<a href="https://drive.google.com/file/d/17o0U9QgD0XasUtG3rh5F12BVBJnJzGOZ/view?usp=share_link">Job Reference Winterthur Versicherung (page 2)</a>
+
+### Education  References
+
+`2014` <a href="https://drive.google.com/file/d/1CmDrN3fzqm12N9RyIjESS0ocgCYJ8-Ki/view?usp=share_link">Education Evidence SoulTank (Module 1)</a>
+
+ <a href="https://drive.google.com/file/d/1Lwn3yQ-z8E2WaFQUitGGhmkaSiu6QxZp/view?usp=share_link">Education Evidence SoulTank (Module 2)</a>
+
+ <a href="https://drive.google.com/file/d/1capzzfcr6D-ZqyGtdx2MOEqfRmuHC6og/view?usp=share_link">Education Evidence SoulTank (Module 3)</a>
+
+`2008` <a href="https://drive.google.com/file/d/1_ORye5N0U_TDTa2SMa41EHmKQflMAVjS/view?usp=share_link">Education Certificate Project Manager SGO</a>
+
+`2006` <a href="https://drive.google.com/file/d/15rc-SQOQDzwoRrDIPKMjiPJHOTW45_2I/view?usp=share_link">Master Certificate ETH Zurich</a>
 
 <!-- ### Footer
 Last updated: April 2023 -->
