@@ -5,7 +5,7 @@ title: Markus Frauenfelders CV
 # Markus Frauenfelder
 Software Architect, Requirements Engineer, Senior Software Engineer.
 
-![Markus Frauenfelder](<iframe src="https://drive.google.com/file/d/1Crhk_iSim5JDH5fOI9cI1MKKJEUFljSq/preview" width="240" height="280" allow="autoplay"></iframe>)
+<img src="media/MarkusFrauenfelder2017.jpg" alt= "Markus Frauenfelder" width="300">
 
 
 <div id="webaddress">
@@ -13,32 +13,44 @@ Software Architect, Requirements Engineer, Senior Software Engineer.
 | <a href="https://github.com/frmarkus/markdown-cv/blob/master/index.md">This CV.</a>
 </div>
 
-## Currently, __Netcetera AG__
+## Markus Frauenfelder
 
-`April 2021 - today`
+`Birth Date` 08.05.1976
+
+`Origin` Henggart (ZH), Niederglatt (ZH)
+
+`Address` Route des Fruitiers 23
+
+`.` 1745 Lentigny
+
+`Mobile` +41 78 676 64 04
+
+## Current Occupation, Netcetera AG
+
+`04.2021 - Today`
 __Requirements Engineer, Senior Software Engineer, Architect__
 
 * Technical requirements engineering for a credit card issuer in the context of its mobile wallet.
 * Architecture, coordination and implementation support of security critical features for a credit card issuer in the context of its mobile wallet.
-* __Tools__ PlantUml, Jira, Confluence, Java, Spring Boot, k8s, Rancher.
+* `Tools` PlantUml, Jira, Confluence, Java, Spring Boot, k8s, Rancher.
 
-`September 2015 - April 2021`
+`09.2015 - 04.2021`
 __Senior Software Engineer, Architect__
 
 * *Backend*
   * Implementations on different solutions for a credit card issuer in the context of its mobile wallet.
   * Implementation of a backend integration solution to connect a mobile wallet backend with a credit card issuer backend.
-  * __Tools__ Java, Spring Boot, Jira, Confluence.
+  * `Tools` Java, Spring Boot, Jira, Confluence.
 * *Android*
   * Implementation of a mobile wallet on Android.
   * Architecture, coordination and implementation of big changes on an existing Android banking implementation.
   * Architecture, coordination and implementation of a very secure Android library for contactless payment through NFC.
   * Evaluation of application security toolchains for Android and iOs.
-  * __Tools__ Java, Android, Security Toolchains (Digital.ai / Arxan, Inside Secure / Metaforic)
+  * `Tools` Java, Android, Security Toolchains (Digital.ai / Arxan, Inside Secure / Metaforic)
 
 * Colaboration on the development of a big JEE application for the calculation of the national railroad schedule on client and server.
 
-`July 2017 - today`
+`07.2017 - today`
 __Teamleader__
 
 * Leader of a team of up to seven software engineers in a matrix organization.
@@ -48,9 +60,9 @@ __Teamleader__
 
 Requirements Engineering, Architecture and Implementation of complex backend systems.
 
-## Past Occupations
+## Prior Occupations
 
-`January 2015 – August 2015`
+`01.2015 – 08.2015`
 __Senior Software Engineer and Architect at Haag-Streit Diagnostics, Koeniz__
 
 * Collaboration on the implementation of a new JavaFX fat clients for biometric eye examination.
@@ -59,9 +71,9 @@ __Senior Software Engineer and Architect at Haag-Streit Diagnostics, Koeniz__
 * Collaboration on the conceptual redesign of the UI suite of Haag-Streit.
 * Introduction of: git, gradle, jpa as replacements of svn, ant, jdbc.
 * Introduction of the dependency injection frameworks 'dagger'.
-* __Tools__ java, javaFX, git, gradle, jenkins
+* `Tools` java, javaFX, git, gradle, jenkins
 
-`April 2006 - December 2014`
+`04.2006 - 12.2014`
 __Senior Software Engineer, Architect, Project Manager at Ergon Informatik, Zuerich__
 
 * Backend Software Engineering
@@ -69,85 +81,110 @@ __Senior Software Engineer, Architect, Project Manager at Ergon Informatik, Zuer
 * Embedded Systems Software Engineering
 * Project Management
 
-`September 2000 - September 2001`
+`09.2000 - 09.2001`
 __Programmer, Analyst at DaimlerChrysler Schweiz AG, Schlieren__
 
 * Consulting and support of tech related business issues.
 * Support data processing center on issues with productive systems.
 * Lead of complete development cycles of small to medium projects.
-* __Tools__ Mainframe (OS390), Cobol74, Adabas
+* `Tools` Mainframe (OS390), Cobol74, Adabas
 
-`April 1998 - August 2000` 
+`04.1998 - 04.2000` 
 __Programmer, Analyst at Winterthur Versicherungen, Winterthur__
 
 * Software Engineering.
 * Analysis of requirements.
 * Database design.
 * Intranet section responsible incl. employee education.
-* __Tools__ Mainframe (MVS), DB2, IMS, PL/1, SQL, JCL.
+* `Tools` Mainframe (MVS), DB2, IMS, PL/1, SQL, JCL.
 
+## Continuing Education
+
+`2022` 3DS Introduction
+
+`2022` Payments 101
+
+`2021` SAFe Basics in-house course
+
+`2020` Container and Kubernetes Basics
+
+`2019` Core Spring Course
+
+`2018` ch-Open Workshop days: 'End-to-End Continuous Delivery on kubernetes', 'Line Coverage is dead, the Hunt for Mutation is open'.
+
+`2018` Jazoon Bern `DevOps for Devs'.
+
+`2017` UL Mobile Payments Masterclass by ul.com
+
+`2016` Betriebssanitaeter
+
+`2016` 'Extreme Java' Inhouse course by JavaSpecialists.eu
+
+`2016` Self study of Kotlin for the implementation of a small time tracking application.
+
+`2015` Intense self studies of gradle as buildtool for Java- and C++-Projects.
+
+`2014` Interne Course: Usability and User Experience.
+
+`2013` Application Security Basic by Protect7.
+
+`2011` Cross-Platform Mobile Web Application Development Training by Adrian Kosmaczewski.
+
+`2008` 'Swiftwater Rescue Technician Unit 1' von 'Rescue 3'.
+
+`2008` J&S Course: White Water Kayaking.
+
+`2008` Brevet 1 of the 'Schweizerischen Lebensrettungsgesellschaft'.
+
+`11.2007 -- 02.2008` Projectmanager SGO.
+
+`04.2006 -- 12.2014` Multiple intern courses: git, Google Web Toolkit, Android, Test Driven Development.
+
+`2001` Diverse SAP Courses
+
+`2000` 5 Weeks intern education at 'Winterthur Versicherung'.
+
+`1999` Attendance of a BEC3 (Business English Certificate) course.
+
+`1999` 5 Weeks intern education at 'Winterthur Versicherung': 'Online programmer with PL1 and IMS-DC.
+
+`02.1997 -- 03.1997` 6 Weeks english language education in canada out of which 4 weeks intense enlish courses.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`10.2001 – 03.2006`
+__Studies of Computer Sciences at ETH Zurich__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* Major: __Software Engineering__
+  * Master Thesis: Implementation of a Bytecode Verifier for the .NET CLR. (C#)
+  * Semester Thesis: 'Transposal of different graphical network representations into each other. (C++)'
+* Minor: __Biomechanik__
+  * Semester Thesis: Development and implementation of an Algorithm for the elimination of Dedicated Marker Erasures on Gait Analysis. (LabView)
 
-- Sizar
+`10.1997 – 04.1998` __Basic Computer Science School at Winterthur Versicherung__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`08.1991 – 01.1996` __Kantonsschule in B¨ulach (mathematics, natural sciences)__
 
-- Fellow
+## Languages
 
+`German` Mother Tongue
 
+`English` Fluent in Word and text
 
-## Awards
+`French` Fluent in Word
 
-`2012`
-President, *Royal Society*, London, UK
+* Spoken
 
-Associate, *French Academy of Science*, Paris, France
+## Private Interest
 
+`Current`
 
+* Gravity Mountain Biking
+* Skiing (Alpine, Telemark, Backcountry)
+* Family
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`Past`
+* 2008 - 2020 White Water Kayak Instructor. (ASVZ)
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: April 2023 -->
