@@ -76,10 +76,34 @@ __Senior Software Engineer and Architect at Haag-Streit Diagnostics, Koeniz__
 `04.2006 - 12.2014`
 __Senior Software Engineer, Architect, Project Manager at Ergon Informatik, Zuerich__
 
-* Backend Software Engineering
-* Mobile Solutions Software Engineering
-* Embedded Systems Software Engineering
-* Project Management
+* __Backend Software Engineering__
+  * Architectures and implementations of different servers and parts of servers `(Java EE, jBoss)`.
+
+* __Mobile Software Engineering__
+  * Architectures and implementations of different Android applications `(Java)`.
+    * To configure embedded devices through NFC and energy harvesting.
+  * Working on complex a BlackBerry application `(Java ME)`.
+  * Implementation of a science project for ahead of time compilation of Java to C.
+  * Architecture and implementation of an application to configure embedded devices through NFC and energy harvesting `(Android)`.
+  * Architecture and implementation of an embedded client for railway shunting support including the requested server `(Java)`.
+  * Design and implementation of a test framework for embedded devices `(Java)`.
+
+* __Embedded Systems Software Engineering__
+  * Architecture and implementation of a Client-Server architecture `(C++, C)`
+  * Userspace driver development for Windows and Linux `(C)`.
+  * Extensions to continuous integration environments `(Python)`.
+  * Installation and operation of a SCM `(git)`, Continuous Integration Environment as well as miscellaneous development environments for embedded software development.
+  * Implementation of a complex continuous integration environments including unit test framworks (client and server) `(C++, C, Python)`
+  * Prototyping `(C++, C# (mono))`
+  * `Tools` git, cvs, svn, gcc, make, hudson
+  
+* __Project Management__
+  * Leading of two projects.
+    * Implementation and adaptation of a B2B telecommunication billing system.
+    * Implementation of a client (embedded) / server solution to support railway shunting.
+  * Intense customer communication and teaching in a 'Teach the Teacher' context.
+  * Requirements engineering.
+  * `Tools` Jira, Confluence
 
 `09.2000 - 09.2001`
 __Programmer, Analyst at DaimlerChrysler Schweiz AG, Schlieren__
