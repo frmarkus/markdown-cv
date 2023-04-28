@@ -1,5 +1,9 @@
 https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
 
+Not really a fork, but more of a copy of: [project page](http://elipapa.github.io/markdown-cv). For details about the base, go there.
+
+for reference, the original readme from there:
+
 
 # markdown-cv
 
